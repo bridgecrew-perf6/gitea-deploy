@@ -1,0 +1,3 @@
+[gitea]
+gitea ansible_host= ansible_connection=ssh
+
